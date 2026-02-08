@@ -13,6 +13,6 @@ I experienced a challenge when I was attempting to push my code to GitHub. I acc
 not being pushed.
 
 ## Screenshot
-![image0](https://github.com/user-attachments/assets/b5484484-1b9a-4947-b619-1a02e9a3be55)
+![image0](https://github.com/user-attachments/assets/b40fdc12-1022-4cf8-b664-3f3491c07520)
 
       
